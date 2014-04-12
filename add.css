@@ -3,6 +3,7 @@ body {
   font-family: arial, "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic";
   background-color: #ecf0f1;
   color: #2c3e50;
+  margin-top: 60px;
 }
 a:link {
   color: #2c3e50;
@@ -16,36 +17,64 @@ a:hover {
 a:active {
   color: #2c3e50;
 }
-.page-header {
-  text-align: center;
-}
 h1 {
   font-family: 'Graduate', cursive;
-  font-size: 1.5em;
+  font-size: 1.1em;
+  padding: 0.2em 0 0 0;
 }
 h2 {
   font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 0 0.5em 0;
 }
 h3 {
-  font-size: 1.2em;
+  font-size: 1.1em;
   clear: both;
+  margin: 0 0 0.5em 0;
+}
+.download {
+  padding: 1em 0 1em 0;
+  border-bottom: 1px solid #ccc;
+}
+.buttunbox {
+  padding: 2em 0;
+}
+.share {
+  list-style: none;
+  padding: 0 0 1em 0;
+}
+.share li {
+  float: left;
+  margin: 0 0.5em 0 0;
 }
 .pre {
-  width: 320px;
-  margin: 0 auto;
-}
-@media only screen and (max-width: 320px) {
-  .pre {
-    width: 100%;
-    margin: 1em;
-  }
+  border-bottom: 1px solid #ccc;
+  padding: 0.5em 0 2em 0;
+  clear: both;
 }
 .cure {
-  width: 60px;
-  height: 60px;
+  width: 68px;
+  height: 68px;
   float: left;
-  margin: 0 0.5em 1em 0;
-  border-radius: 5px;
+  margin: 0;
+}
+.colorcode {
+  font-size: 0.8em;
+  clear: both;
+  font-weight: bold;
+}
+.colorcode span {
+  width: 62px;
+  margin: 0 0.5em 2em 0;
+  display: block;
+  float: left;
+  text-align: center;
+}
+.copy {
+  clear: both;
+  text-align: left;
+  display: block;
+  padding: 2em 0;
 }
 /* ここからプリキュアだよ！ */
 .black-01 {
