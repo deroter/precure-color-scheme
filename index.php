@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Precure Color Scheme</title>
 <link href="dest/bijou.min.css" rel="stylesheet">
-<link href="dest/add.css" rel="stylesheet">
+<link href="add.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css'>
 <!-- 
 
