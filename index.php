@@ -347,9 +347,7 @@
 <div class="cure fortune-03"></div>
 <div class="cure fortune-04"></div>
 <p class="colorcode"><span>#7770D9</span><span>#334463</span><span>#EAD3FF</span><span>#FFFF01</span></p>
-</section>
-<small class="copy">Copyright &copy; Precure Color Scheme</small>
-</div>
+
 
 <h3>メルシィプリキュア（キュアアール）</h3>
 <div class="cure melcy-01"></div>
@@ -373,6 +371,12 @@
 <div class="cure wave-03"></div>
 <div class="cure wave-04"></div>
 <p class="colorcode"><span>#A9E3E5</span><span>#34AEDD</span><span>#364363</span><span>#F6D139</span></p>
+
+
+
+<small class="copy">Copyright &copy; Precure Color Scheme</small>
+</div>
+
 
 
 <script type="text/javascript">
