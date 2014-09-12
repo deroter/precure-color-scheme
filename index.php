@@ -375,7 +375,6 @@
 <p class="colorcode"><span>#A9E3E5</span><span>#34AEDD</span><span>#364363</span><span>#F6D139</span></p>
 
 
-
 <script type="text/javascript">
   window.___gcfg = {lang: 'ja'};
 
