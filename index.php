@@ -380,7 +380,6 @@
 <p class="colorcode"><span>#495176</span><span>#7A86B6</span><span>#364363</span><span>#F6D139</span></p>
 
 
-
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
 
