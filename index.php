@@ -44,13 +44,14 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <header class="navbar fixed">
       <div class="container">
-        <h1 class="pull-left">Precure Color Scheme</h1>
+        <h1 class="pull-left">Precure Color Scheme -プリキュアカラースキーム-</h1>
       </div>
 </header>
 <div class="container">
 <section class="download">
-		<h2>Precure Color Schemeとは？</h2>
+		<h2>Precure Color Scheme-プリキュアカラースキーム-とは？</h2>
 		<p>プリキュアの色を調べてみました＆まとめました。</p>
+    <p>2015/5/7現在でプリンセスプリキュアまで対応。</p>
 		<p>ダウンロードしたいという人はこちら</p>
 		<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 		<p>コマンドでどうぞ</p>
@@ -378,7 +379,29 @@
 <div class="cure tender-03"></div>
 <div class="cure tender-04"></div>
 <p class="colorcode"><span>#495176</span><span>#7A86B6</span><span>#364363</span><span>#F6D139</span></p>
+</section>
+<section class="pre">
+  <h2>Go!プリンセスプリキュア</h2>
+  <h3>キュアフローラ</h3>
+<div class="cure flora-01"></div>
+<div class="cure flora-02"></div>
+<div class="cure flora-03"></div>
+<div class="cure flora-04"></div>
+<p class="colorcode"><span>#FDD482</span><span>#E83D7F</span><span>#FEF4FD</span><span>#FD8AD8</span></p>
+  <h3>キュアマーメイド</h3>
+<div class="cure maermaid-01"></div>
+<div class="cure maermaid-02"></div>
+<div class="cure maermaid-03"></div>
+<div class="cure maermaid-04"></div>
+<p class="colorcode"><span>#5999C9</span><span>#3969D5</span><span>#FFC3E2</span><span>#8DE7DB</span></p>
+  <h3>キュアトゥインクル</h3>
+<div class="cure twincle-01"></div>
+<div class="cure twincle-02"></div>
+<div class="cure twincle-03"></div>
+<div class="cure twincle-04"></div>
+<p class="colorcode"><span>#FF9A18</span><span>#FCE92D</span><span>#9458C9</span><span>#FFFF98</span></p>
 
+</section>
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
