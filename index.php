@@ -186,7 +186,7 @@
 <p class="colorcode"><span>#E53745</span><span>#EFF5F3</span><span>#212622</span><span>#F4D3E3</span></p>
 </section>
 <section class="pre">
-<h2>ハーキャッチプリキュア</h2>
+<h2>ハートキャッチプリキュア</h2>
 <h3>キュアブロッサム</h3>
 <div class="cure blossom-01"></div>
 <div class="cure blossom-02"></div>
