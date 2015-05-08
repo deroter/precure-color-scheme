@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Precure Color Scheme</title>
+<title>Precure Color Scheme -プリキュアカラースキーム-</title>
 <link href="dest/bijou.min.css" rel="stylesheet">
 <link href="add.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css'>
@@ -44,12 +44,13 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <header class="navbar fixed">
       <div class="container">
-        <h1 class="pull-left">Precure Color Scheme -プリキュアカラースキーム-</h1>
+        <h1 class="pull-left">Precure Color Scheme</h1>
       </div>
 </header>
 <div class="container">
 <section class="download">
-		<h2>Precure Color Scheme-プリキュアカラースキーム-とは？</h2>
+		<h2>What's Precure Color Scheme?</h2>
+		<h3>プリキュアカラースキーム-とは？</h3>
 		<p>プリキュアの色を調べてみました＆まとめました。</p>
     <p>2015/5/7現在でプリンセスプリキュアまで対応。</p>
 		<p>ダウンロードしたいという人はこちら</p>
