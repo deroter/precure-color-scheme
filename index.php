@@ -52,7 +52,7 @@
 		<h2>What's Precure Color Scheme?</h2>
 		<h3>プリキュアカラースキーム-とは？</h3>
 		<p>プリキュアの色を調べてみました＆まとめました。</p>
-    <p>2015/5/7現在でプリンセスプリキュアまで対応。</p>
+    <p>2015/7/5 現在でGo!プリンセスプリキュアのキュアスカーレットまで対応。</p>
 		<p>ダウンロードしたいという人はこちら</p>
 		<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 		<p>コマンドでどうぞ</p>
