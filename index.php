@@ -401,6 +401,13 @@
 <div class="cure twincle-03"></div>
 <div class="cure twincle-04"></div>
 <p class="colorcode"><span>#FF9A18</span><span>#FCE92D</span><span>#9458C9</span><span>#FFFF98</span></p>
+<h3>キュアスカーレット</h3>
+<div class="cure scarlet-01"></div>
+<div class="cure scarlet-02"></div>
+<div class="cure scarlet-03"></div>
+<div class="cure scarlet-04"></div>
+<p class="colorcode"><span>#FD6FDC</span><span>#ED0430</span><span>#C2002F</span><span>#FEE134</span></p>
+
 
 </section>
 
