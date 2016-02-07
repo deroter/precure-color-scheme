@@ -52,7 +52,7 @@
 		<h2>What's Precure Color Scheme?</h2>
 		<h3>プリキュアカラースキーム-とは？</h3>
 		<p>プリキュアの色を調べてみました＆まとめました。</p>
-    <p>2015/7/5 現在でGo!プリンセスプリキュアのキュアスカーレットまで対応。</p>
+    <p>2016/2/7 魔法つかいプリキュア！が放送開始したので、キュアミラクルとキュアマジカルを追加。</p>
 		<p>ダウンロードしたいという人はこちら</p>
 		<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 		<p>コマンドでどうぞ</p>
@@ -410,6 +410,26 @@
 
 
 </section>
+
+<section class="pre">
+<h2>魔法つかいプリキュア！</h2>
+<h3>キュアミラクル</h3>
+<div class="cure miracle-01"></div>
+<div class="cure miracle-02"></div>
+<div class="cure miracle-03"></div>
+<div class="cure miracle-04"></div>
+<p class="colorcode"><span>#F174BF</span><span>#FEF294</span><span>#FCDAF4</span><span>#FBCE3C</span></p>
+
+<h3>キュアマジカル</h3>
+<div class="cure magical-01"></div>
+<div class="cure magical-02"></div>
+<div class="cure magical-03"></div>
+<div class="cure magical-04"></div>
+<p class="colorcode"><span>#8C81B1</span><span>#5B3F8F</span><span>#E0D3EA</span><span>#FBCE3C</span></p>
+
+</section>
+
+
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
