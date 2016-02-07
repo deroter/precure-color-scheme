@@ -49,7 +49,6 @@
 </header>
 <div class="container">
 <section class="download">
-<<<<<<< HEAD
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
@@ -65,23 +64,6 @@
 <li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></li>
 <li><div class="fb-like" data-href="http://precure-color.herokuapp.com/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div></li>
 </ul>
-=======
-		<h2>What's Precure Color Scheme?</h2>
-		<h3>プリキュアカラースキーム-とは？</h3>
-		<p>プリキュアの色を調べてみました＆まとめました。</p>
-    <p>2016/2/7 魔法つかいプリキュア！が放送開始したので、キュアミラクルとキュアマジカルを追加。</p>
-		<p>ダウンロードしたいという人はこちら</p>
-		<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
-		<p>コマンドでどうぞ</p>
-		<div class="alert primary"><p>$ git clone https://github.com/deroter/precure-color-scheme.git</p></div>
-		<ul class="share">
-			<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="funnisnet">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
-			<li><div class="g-plusone" data-annotation="inline" data-width="120"></div></li>
-			<li><a href="http://b.hatena.ne.jp/entry/http://precure-color.herokuapp.com/" class="hatena-bookmark-button" data-hatena-bookmark-title="Precure Color Scheme" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
-			<li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></li>
-			<li><div class="fb-like" data-href="http://precure-color.herokuapp.com/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div></li>
-		</ul>
->>>>>>> fd7c2724459b2917d003552d25c4f327f6ea5ae9
 </section>
 <section class="pre">
 <h2>ふたりはプリキュア</h2>
