@@ -387,25 +387,6 @@
 <p class="colorcode"><span>#8C81B1</span><span>#5B3F8F</span><span>#E0D3EA</span><span>#FBCE3C</span></p>
 </section>
 
-<section class="pre">
-<h2>魔法つかいプリキュア！</h2>
-<h3>キュアミラクル</h3>
-<div class="cure miracle-01"></div>
-<div class="cure miracle-02"></div>
-<div class="cure miracle-03"></div>
-<div class="cure miracle-04"></div>
-<p class="colorcode"><span>#F174BF</span><span>#FEF294</span><span>#FCDAF4</span><span>#FBCE3C</span></p>
-
-<h3>キュアマジカル</h3>
-<div class="cure magical-01"></div>
-<div class="cure magical-02"></div>
-<div class="cure magical-03"></div>
-<div class="cure magical-04"></div>
-<p class="colorcode"><span>#8C81B1</span><span>#5B3F8F</span><span>#E0D3EA</span><span>#FBCE3C</span></p>
-
-</section>
-
-
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
