@@ -49,39 +49,36 @@
 </header>
 <div class="container">
 <section class="download">
-		<h2>What's Precure Color Scheme?</h2>
-		<h3>プリキュアカラースキーム-とは？</h3>
-		<p>プリキュアの色を調べてみました＆まとめました。</p>
-    <p>2016/2/7 魔法つかいプリキュア！が放送開始したので、キュアミラクルとキュアマジカルを追加。</p>
-		<p>ダウンロードしたいという人はこちら</p>
-		<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
-		<p>コマンドでどうぞ</p>
-		<div class="alert primary"><p>$ git clone https://github.com/deroter/precure-color-scheme.git</p></div>
-		<ul class="share">
-			<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="funnisnet">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
-			<li><div class="g-plusone" data-annotation="inline" data-width="120"></div></li>
-			<li><a href="http://b.hatena.ne.jp/entry/http://precure-color.herokuapp.com/" class="hatena-bookmark-button" data-hatena-bookmark-title="Precure Color Scheme" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
-			<li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></li>
-			<li><div class="fb-like" data-href="http://precure-color.herokuapp.com/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div></li>
-		</ul>
+<h2>What's Precure Color Scheme?</h2>
+<h3>プリキュアカラースキーム-とは？</h3>
+<p>プリキュアの色を調べてみました＆まとめました。</p>
+<p>2016/2/7 魔法つかいプリキュア！が放送開始したので、キュアミラクルとキュアマジカルを追加。</p>
+<p>ダウンロードしたいという人はこちら</p>
+<p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
+<p>コマンドでどうぞ</p>
+<div class="alert primary"><p>$ git clone https://github.com/deroter/precure-color-scheme.git</p></div>
+<ul class="share">
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="funnisnet">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+<li><div class="g-plusone" data-annotation="inline" data-width="120"></div></li>
+<li><a href="http://b.hatena.ne.jp/entry/http://precure-color.herokuapp.com/" class="hatena-bookmark-button" data-hatena-bookmark-title="Precure Color Scheme" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
+<li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></li>
+<li><div class="fb-like" data-href="http://precure-color.herokuapp.com/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div></li>
+</ul>
 </section>
 <section class="pre">
 <h2>ふたりはプリキュア</h2>
-
 <h3>キュアブラック</h3>
 <div class="cure black-01"></div>
 <div class="cure black-02"></div>
 <div class="cure black-03"></div>
 <div class="cure black-04"></div>
 <p class="colorcode"><span>#241848</span><span>#FF518B</span><span>#FCEB04</span><span>#F48D0A</span></p>
-
 <h3>キュアホワイト</h3>
 <div class="cure white-01"></div>
 <div class="cure white-02"></div>
 <div class="cure white-03"></div>
 <div class="cure white-04"></div>
 <p class="colorcode"><span>#F6F6F6</span><span>#5FC7FC</span><span>#0F6BAC</span><span>#13103D</span></p>
-
 <h3>シャイニールミナス</h3>
 <div class="cure ruminas-01"></div>
 <div class="cure ruminas-02"></div>
@@ -97,21 +94,18 @@
 <div class="cure bloom-03"></div>
 <div class="cure bloom-04"></div>
 <p class="colorcode"><span>#E14F93</span><span>#FEF995</span><span>#702F56</span><span>#E9A54B</span></p>
-
 <h3>キュアブライト</h3>
 <div class="cure brite-01"></div>
 <div class="cure brite-02"></div>
 <div class="cure brite-03"></div>
 <div class="cure brite-04"></div>
 <p class="colorcode"><span>#FAF9A7</span><span>#96DA42</span><span>#CD1872</span><span>#E9A54B</span></p>
-
 <h3>キュアイーグレット</h3>
 <div class="cure eaglet-01"></div>
 <div class="cure eaglet-02"></div>
 <div class="cure eaglet-03"></div>
 <div class="cure eaglet-04"></div>
 <p class="colorcode"><span>#FEFEF4</span><span>#D1D6FD</span><span>#FA5A8F</span><span>#6C307F</span></p>
-
 <h3>キュアウィンディ</h3>
 <div class="cure windy-01"></div>
 <div class="cure windy-02"></div>
@@ -127,28 +121,24 @@
 <div class="cure dream-03"></div>
 <div class="cure dream-04"></div>
 <p class="colorcode"><span>#EF81C3</span><span>#FAF9F4</span><span>#9C3D97</span><span>#EA4A98</span></p>
-
 <h3>キュアルージュ</h3>
 <div class="cure rouge-01"></div>
 <div class="cure rouge-02"></div>
 <div class="cure rouge-03"></div>
 <div class="cure rouge-04"></div>
 <p class="colorcode"><span>#EE4544</span><span>#FAF9F4</span><span>#5C3F81</span><span>#E76C4E</span></p>
-
 <h3>キュアレモネード</h3>
 <div class="cure lemoned-01"></div>
 <div class="cure lemoned-02"></div>
 <div class="cure lemoned-03"></div>
 <div class="cure lemoned-04"></div>
 <p class="colorcode"><span>#F3EC7C</span><span>#FAF9F4</span><span>#BF4F7C</span><span>#F4F0AE</span></p>
-
 <h3>キュアミント</h3>
 <div class="cure mint-01"></div>
 <div class="cure mint-02"></div>
 <div class="cure mint-03"></div>
 <div class="cure mint-04"></div>
 <p class="colorcode"><span>#80C05D</span><span>#FAF9F4</span><span>#212E23</span><span>#69B17E</span></p>
-
 <h3>キュアアクア</h3>
 <div class="cure aqua-01"></div>
 <div class="cure aqua-02"></div>
@@ -164,21 +154,18 @@
 <div class="cure peach-03"></div>
 <div class="cure peach-04"></div>
 <p class="colorcode"><span>#EE83AC</span><span>#FBF5F5</span><span>#D6154C</span><span>#FFF7AB</span></p>
-
 <h3>キュアベリー</h3>
 <div class="cure berry-01"></div>
 <div class="cure berry-02"></div>
 <div class="cure berry-03"></div>
 <div class="cure berry-04"></div>
 <p class="colorcode"><span>#1679BA</span><span>#F9FEF8</span><span>#14459B</span><span>#D3B9DD</span></p>
-
 <h3>キュアパイン</h3>
 <div class="cure pine-01"></div>
 <div class="cure pine-02"></div>
 <div class="cure pine-03"></div>
 <div class="cure pine-04"></div>
 <p class="colorcode"><span>#F18540</span><span>#FEFDE0</span><span>#FEF144</span><span>#FBC447</span></p>
-
 <h3>キュアパッション</h3>
 <div class="cure passion-01"></div>
 <div class="cure passion-02"></div>
@@ -194,21 +181,18 @@
 <div class="cure blossom-03"></div>
 <div class="cure blossom-04"></div>
 <p class="colorcode"><span>#F68FCB</span><span>#FCFFFC</span><span>#DD3484</span><span>#E951AF</span></p>
-
 <h3>キュアマリン</h3>
 <div class="cure marine-01"></div>
 <div class="cure marine-02"></div>
 <div class="cure marine-03"></div>
 <div class="cure marine-04"></div>
 <p class="colorcode"><span>#69AAE3</span><span>#E5F7F9</span><span>#4475D9</span><span>#66DAE8</span></p>
-
 <h3>キュアサンシャイン</h3>
 <div class="cure sunshine-01"></div>
 <div class="cure sunshine-02"></div>
 <div class="cure sunshine-03"></div>
 <div class="cure sunshine-04"></div>
 <p class="colorcode"><span>#EFA428</span><span>#F5F6E8</span><span>#EA7B39</span><span>#F5DE5F</span></p>
-
 <h3>キュアムーンライト</h3>
 <div class="cure moonlight-01"></div>
 <div class="cure moonlight-02"></div>
@@ -224,21 +208,18 @@
 <div class="cure melody-03"></div>
 <div class="cure melody-04"></div>
 <p class="colorcode"><span>#E52E85</span><span>#F576BE</span><span>#F5F5F5</span><span>#FAA5CA</span></p>
-
 <h3>キュアリズム</h3>
 <div class="cure rhythm-01"></div>
 <div class="cure rhythm-02"></div>
 <div class="cure rhythm-03"></div>
 <div class="cure rhythm-04"></div>
 <p class="colorcode"><span>#FAFAFA</span><span>#FCD0FC</span><span>#E982CA</span><span>#FEF293</span></p>
-
 <h3>キュアビート</h3>
 <div class="cure beat-01"></div>
 <div class="cure beat-02"></div>
 <div class="cure beat-03"></div>
 <div class="cure beat-04"></div>
 <p class="colorcode"><span>#7594FC</span><span>#D6F7FE</span><span>#41408D</span><span>#D597F3</span></p>
-
 <h3>キュアミューズ</h3>
 <div class="cure muse-01"></div>
 <div class="cure muse-02"></div>
@@ -254,28 +235,24 @@
 <div class="cure happy-03"></div>
 <div class="cure happy-04"></div>
 <p class="colorcode"><span>#EFA0C3</span><span>#FAF8FE</span><span>#E44387</span><span>#E8559B</span></p>
-
 <h3>キュアサニー</h3>
 <div class="cure sunny-01"></div>
 <div class="cure sunny-02"></div>
 <div class="cure sunny-03"></div>
 <div class="cure sunny-04"></div>
 <p class="colorcode"><span>#F39D49</span><span>#FAF8FE</span><span>#E94B2F</span><span>#E95627</span></p>
-
 <h3>キュアピース</h3>
 <div class="cure peace-01"></div>
 <div class="cure peace-02"></div>
 <div class="cure peace-03"></div>
 <div class="cure peace-04"></div>
 <p class="colorcode"><span>#FDD234</span><span>#FAF8FE</span><span>#EF8E27</span><span>#FEDA4E</span></p>
-
 <h3>キュアマーチ</h3>
 <div class="cure march-01"></div>
 <div class="cure march-02"></div>
 <div class="cure march-03"></div>
 <div class="cure march-04"></div>
 <p class="colorcode"><span>#7DC066</span><span>#FAF8FE</span><span>#06462B</span><span>#18A742</span></p>
-
 <h3>キュアビューティー</h3>
 <div class="cure beauty-01"></div>
 <div class="cure beauty-02"></div>
@@ -291,28 +268,24 @@
 <div class="cure heart-03"></div>
 <div class="cure heart-04"></div>
 <p class="colorcode"><span>#FABBE1</span><span>#F2F7FA</span><span>#ED60AF</span><span>#FEF09D</span></p>
-
 <h3>キュアダイヤモンド</h3>
 <div class="cure diamond-01"></div>
 <div class="cure diamond-02"></div>
 <div class="cure diamond-03"></div>
 <div class="cure diamond-04"></div>
 <p class="colorcode"><span>#BAE0FE</span><span>#F2F7FA</span><span>#6DA6FC</span><span>#999EF4</span></p>
-
 <h3>キュアロゼッタ</h3>
 <div class="cure rosseta-01"></div>
 <div class="cure rosseta-02"></div>
 <div class="cure rosseta-03"></div>
 <div class="cure rosseta-04"></div>
 <p class="colorcode"><span>#F6D448</span><span>#F2F7FA</span><span>#B6E99D</span><span>#FEC463</span></p>
-
 <h3>キュアソード</h3>
 <div class="cure sword-01"></div>
 <div class="cure sword-02"></div>
 <div class="cure sword-03"></div>
 <div class="cure sword-04"></div>
 <p class="colorcode"><span>#D4A7EF</span><span>#955DCB</span><span>#FCEB04</span><span>#F0B0F1</span></p>
-
 <h3>キュアエース</h3>
 <div class="cure ace-01"></div>
 <div class="cure ace-02"></div>
@@ -328,52 +301,42 @@
 <div class="cure lovely-03"></div>
 <div class="cure lovely-04"></div>
 <p class="colorcode"><span>#ED349C</span><span>#334463</span><span>#FFA7FF</span><span>#FFFF01</span></p>
-
 <h3>キュアプリンセス</h3>
 <div class="cure princess-01"></div>
 <div class="cure princess-02"></div>
 <div class="cure princess-03"></div>
 <div class="cure princess-04"></div>
 <p class="colorcode"><span>#BEDBFF</span><span>#334463</span><span>#7CB7FF</span><span>#FFFF01</span></p>
-
 <h3>キュアハニー</h3>
 <div class="cure honey-01"></div>
 <div class="cure honey-02"></div>
 <div class="cure honey-03"></div>
 <div class="cure honey-04"></div>
 <p class="colorcode"><span>#FFE379</span><span>#334463</span><span>#FCFCFC</span><span>#FFFF01</span></p>
-
 <h3>キュアフォーチュン</h3>
 <div class="cure fortune-01"></div>
 <div class="cure fortune-02"></div>
 <div class="cure fortune-03"></div>
 <div class="cure fortune-04"></div>
 <p class="colorcode"><span>#7770D9</span><span>#334463</span><span>#EAD3FF</span><span>#FFFF01</span></p>
-
-
 <h3>メルシィプリキュア（キュアアール）</h3>
 <div class="cure melcy-01"></div>
 <div class="cure melcy-02"></div>
 <div class="cure melcy-03"></div>
 <div class="cure melcy-04"></div>
 <p class="colorcode"><span>#FDFBD0</span><span>#D82869</span><span>#364363</span><span>#F6D139</span></p>
-
-
 <h3>キュアサンセット</h3>
 <div class="cure sunset-01"></div>
 <div class="cure sunset-02"></div>
 <div class="cure sunset-03"></div>
 <div class="cure sunset-04"></div>
 <p class="colorcode"><span>#F7A35C</span><span>#FC7B7B</span><span>#364363</span><span>#F6D139</span></p>
-
-
 <h3>キュアウェーブ</h3>
 <div class="cure wave-01"></div>
 <div class="cure wave-02"></div>
 <div class="cure wave-03"></div>
 <div class="cure wave-04"></div>
 <p class="colorcode"><span>#A9E3E5</span><span>#34AEDD</span><span>#364363</span><span>#F6D139</span></p>
-
 <h3>キュアテンダー</h3>
 <div class="cure tender-01"></div>
 <div class="cure tender-02"></div>
@@ -407,10 +370,7 @@
 <div class="cure scarlet-03"></div>
 <div class="cure scarlet-04"></div>
 <p class="colorcode"><span>#FD6FDC</span><span>#ED0430</span><span>#C2002F</span><span>#FEE134</span></p>
-
-
 </section>
-
 <section class="pre">
 <h2>魔法つかいプリキュア！</h2>
 <h3>キュアミラクル</h3>
@@ -419,17 +379,13 @@
 <div class="cure miracle-03"></div>
 <div class="cure miracle-04"></div>
 <p class="colorcode"><span>#F174BF</span><span>#FEF294</span><span>#FCDAF4</span><span>#FBCE3C</span></p>
-
 <h3>キュアマジカル</h3>
 <div class="cure magical-01"></div>
 <div class="cure magical-02"></div>
 <div class="cure magical-03"></div>
 <div class="cure magical-04"></div>
 <p class="colorcode"><span>#8C81B1</span><span>#5B3F8F</span><span>#E0D3EA</span><span>#FBCE3C</span></p>
-
 </section>
-
-
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
