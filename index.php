@@ -385,6 +385,12 @@
 <div class="cure magical-03"></div>
 <div class="cure magical-04"></div>
 <p class="colorcode"><span>#8C81B1</span><span>#5B3F8F</span><span>#E0D3EA</span><span>#FBCE3C</span></p>
+<h3>キュアフェリーチェ</h3>
+<div class="cure felice-01"></div>
+<div class="cure felice-02"></div>
+<div class="cure felice-03"></div>
+<div class="cure felice-04"></div>
+<p class="colorcode"><span>#BFFDDB</span><span>#FF8BC9</span><span>#FEFEFC</span><span>#FCF267</span></p>
 </section>
 
 
