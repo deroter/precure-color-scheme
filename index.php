@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2016/2/7 魔法つかいプリキュア！が放送開始したので、キュアミラクルとキュアマジカルを追加。</p>
+<p>2016/7/3 魔法つかいプリキュア！に新登場したキュアフェリーチェを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
