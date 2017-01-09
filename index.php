@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2016/7/3 魔法つかいプリキュア！に新登場したキュアフェリーチェを追加。</p>
+<p>2017/1/9 キラキラ プリキュアアラモードの5人のプリキュアを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -392,7 +392,39 @@
 <div class="cure felice-04"></div>
 <p class="colorcode"><span>#BFFDDB</span><span>#FF8BC9</span><span>#FEFEFC</span><span>#FCF267</span></p>
 </section>
-
+<section class="pre">
+<h2>キラキラ プリキュアアラモード</h2>
+<h3>キュアホイップ</h3>
+<div class="cure whip-01"></div>
+<div class="cure whip-02"></div>
+<div class="cure whip-03"></div>
+<div class="cure whip-04"></div>
+<p class="colorcode"><span>#FF488D</span><span>#FFFCCE</span><span>#FFF1FE</span><span>#E92B61</span></p>
+<h3>キュアカスタード</h3>
+<div class="cure custard-01"></div>
+<div class="cure custard-02"></div>
+<div class="cure custard-03"></div>
+<div class="cure custard-04"></div>
+<p class="colorcode"><span>#FD663D</span><span>#FFF324</span><span>#FFA200</span><span>#FDFFC1</span></p>
+<h3>キュアジェラート</h3>
+<div class="cure gerart-01"></div>
+<div class="cure gerart-02"></div>
+<div class="cure gerart-03"></div>
+<div class="cure gerart-04"></div>
+<p class="colorcode"><span>#3F6BEC</span><span>#6CCEFF</span><span>#FBFBD6</span><span>#80E4E1</span></p>
+<h3>キュアマカロン</h3>
+<div class="cure macaroon-01"></div>
+<div class="cure macaroon-02"></div>
+<div class="cure macaroon-03"></div>
+<div class="cure macaroon-04"></div>
+<p class="colorcode"><span>#D66AD7</span><span>#8B51D9</span><span>#F8EEFF</span><span>#852988</span></p>
+<h3>キュアショコラ</h3>
+<div class="cure chocolat-01"></div>
+<div class="cure chocolat-02"></div>
+<div class="cure chocolat-03"></div>
+<div class="cure chocolat-04"></div>
+<p class="colorcode"><span>#F23446</span><span>#613115</span><span>#C61521</span><span>#986147</span></p>
+</section>
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
