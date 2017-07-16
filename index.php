@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2017/1/9 キラキラ プリキュアアラモードの5人のプリキュアを追加。</p>
+<p>2017/7/16 キラキラ プリキュアアラモードのキュアパルフェを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
