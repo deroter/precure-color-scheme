@@ -424,6 +424,12 @@
 <div class="cure chocolat-03"></div>
 <div class="cure chocolat-04"></div>
 <p class="colorcode"><span>#F23446</span><span>#613115</span><span>#C61521</span><span>#986147</span></p>
+<h3>キュアパルフェ</h3>
+<div class="cure palufe-01"></div>
+<div class="cure palufe-02"></div>
+<div class="cure palufe-03"></div>
+<div class="cure palufe-04"></div>
+<p class="colorcode"><span>#FFC4EA</span><span>#4FDBE8</span><span>#FF4766</span><span>#F5F78A</span></p>
 </section>
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
