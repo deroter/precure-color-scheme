@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2017/7/16 キラキラ プリキュアアラモードのキュアパルフェを追加。</p>
+<p>2018/1/21 キラキラ プリキュアアラモードのキュアペコリンを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -430,6 +430,12 @@
 <div class="cure palufe-03"></div>
 <div class="cure palufe-04"></div>
 <p class="colorcode"><span>#FFC4EA</span><span>#4FDBE8</span><span>#FF4766</span><span>#F5F78A</span></p>
+<h3>キュアペコリン</h3>
+<div class="cure pekorin-01"></div>
+<div class="cure pekorin-02"></div>
+<div class="cure pekorin-03"></div>
+<div class="cure pekorin-04"></div>
+<p class="colorcode"><span>#F580B7</span><span>#FAD4F7</span><span>#F886DB</span><span>#FCF299</span></p>
 </section>
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
