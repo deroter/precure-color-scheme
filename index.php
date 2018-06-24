@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2018/2/4 ＨＵＧっと！プリキュアのキュアエール、キュアアンジュ、キュアエトワールを追加。</p>
+<p>2018/6/24 ＨＵＧっと！プリキュアのキュアアムール、キュアマシェリを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -458,6 +458,18 @@
 <div class="cure etoile-03"></div>
 <div class="cure etoile-04"></div>
 <p class="colorcode"><span>#FFDB5D</span><span>#FFFFC2</span><span>#FFAD0C</span><span>#2960C2</span></p>
+<h3>キュアマシェリ</h3>
+<div class="cure masheri-01"></div>
+<div class="cure masheri-02"></div>
+<div class="cure masheri-03"></div>
+<div class="cure masheri-04"></div>
+<p class="colorcode"><span>#FFFFCC</span><span>#FFF8FB</span><span>#FF3C77</span><span>#C887F6</span></p>
+<h3>キュアアムール</h3>
+<div class="cure amor-01"></div>
+<div class="cure amor-02"></div>
+<div class="cure amor-03"></div>
+<div class="cure amor-04"></div>
+<p class="colorcode"><span>#BAC0FF</span><span>#FDFEFF</span><span>#C47BF6</span><span>#EA4C98</span></p>
 
 </section>
 
