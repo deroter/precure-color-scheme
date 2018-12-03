@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2018/6/24 ＨＵＧっと！プリキュアのキュアアムール、キュアマシェリを追加。</p>
+<p>2018/12/3 ＨＵＧっと！プリキュアのキュアアンフィニを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -470,6 +470,12 @@
 <div class="cure amor-03"></div>
 <div class="cure amor-04"></div>
 <p class="colorcode"><span>#BAC0FF</span><span>#FDFEFF</span><span>#C47BF6</span><span>#EA4C98</span></p>
+<h3>キュアアアンフィニ</h3>
+<div class="cure infini-01"></div>
+<div class="cure infini-02"></div>
+<div class="cure infini-03"></div>
+<div class="cure infini-04"></div>
+<p class="colorcode"><span>#F9F6E0</span><span>#FFF8FB</span><span>#D3EEE4</span><span>#C2BFF6</span></p>
 
 </section>
 
