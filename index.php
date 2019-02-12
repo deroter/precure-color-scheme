@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2018/12/3 ＨＵＧっと！プリキュアのキュアアンフィニを追加。</p>
+<p>2019/2/12 スター☆トゥインクルプリキュアのキュアスター、キュアミルキー、キュアソレイユ、キュアセレーネを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -478,6 +478,36 @@
 <p class="colorcode"><span>#F9F6E0</span><span>#FFF8FB</span><span>#D3EEE4</span><span>#C2BFF6</span></p>
 
 </section>
+
+
+<section class="pre">
+<h2>スター☆トゥインクルプリキュア</h2>
+<h3>キュアスター</h3>
+<div class="cure star-01"></div>
+<div class="cure star-02"></div>
+<div class="cure star-03"></div>
+<div class="cure star-04"></div>
+<p class="colorcode"><span>#FF97C8</span><span>#FEDFEF</span><span>#FFE04E</span><span>#F4D7FD</span></p>
+<h3>キュアミルキー</h3>
+<div class="cure milky-01"></div>
+<div class="cure milky-02"></div>
+<div class="cure milky-03"></div>
+<div class="cure milky-04"></div>
+<p class="colorcode"><span>#7AE8F5</span><span>#35DBD9</span><span>#FFFD52</span><span>#EEE9FE</span></p>
+<h3>キュアソレイユ</h3>
+<div class="cure soleil-01"></div>
+<div class="cure soleil-02"></div>
+<div class="cure soleil-03"></div>
+<div class="cure soleil-04"></div>
+<p class="colorcode"><span>#FEF499</span><span>#FF961F</span><span>#FFEB41</span><span>#C93DAC</span></p>
+<h3>キュアセレーネ</h3>
+<div class="cure selene-01"></div>
+<div class="cure selene-02"></div>
+<div class="cure selene-03"></div>
+<div class="cure selene-04"></div>
+<p class="colorcode"><span>#D5B2FF</span><span>#8A6ADA</span><span>#FFFC7E</span><span>#FEF6FF</span></p>
+</section>
+
 
 <small class="copy">Copyright &copy; Precure Color Scheme</small>
 </div>
