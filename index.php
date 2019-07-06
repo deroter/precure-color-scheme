@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2019/2/12 スター☆トゥインクルプリキュアのキュアスター、キュアミルキー、キュアソレイユ、キュアセレーネを追加。</p>
+<p>2019/7/6 スター☆トゥインクルプリキュアのキュアコスモを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -506,6 +506,12 @@
 <div class="cure selene-03"></div>
 <div class="cure selene-04"></div>
 <p class="colorcode"><span>#D5B2FF</span><span>#8A6ADA</span><span>#FFFC7E</span><span>#FEF6FF</span></p>
+<h3>キュアコスモ</h3>
+<div class="cure cosmo-01"></div>
+<div class="cure cosmo-02"></div>
+<div class="cure cosmo-03"></div>
+<div class="cure cosmo-04"></div>
+<p class="colorcode"><span>#8FEAFF</span><span>#FEEB47</span><span>#FE80D9</span><span>#578EFF</span></p>
 </section>
 
 
