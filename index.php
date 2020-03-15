@@ -52,7 +52,7 @@
 <h2>What's Precure Color Scheme?</h2>
 <h3>プリキュアカラースキーム-とは？</h3>
 <p>プリキュアの色を調べてみました＆まとめました。</p>
-<p>2019/7/6 スター☆トゥインクルプリキュアのキュアコスモを追加。</p>
+<p>2020/3/15 ヒーリングっどプリキュアのキュアグレース・キュアフォンテーヌ・キュアスパークルを追加。</p>
 <p>ダウンロードしたいという人はこちら</p>
 <p class="buttunbox"><a href="https://github.com/deroter/precure-color-scheme" class="button success large">Github</a></p>
 <p>コマンドでどうぞ</p>
@@ -512,6 +512,28 @@
 <div class="cure cosmo-03"></div>
 <div class="cure cosmo-04"></div>
 <p class="colorcode"><span>#8FEAFF</span><span>#FEEB47</span><span>#FE80D9</span><span>#578EFF</span></p>
+</section>
+
+<section class="pre">
+<h2>ヒーリングっどプリキュア</h2>
+<h3>キュアグレース</h3>
+<div class="cure grace-01"></div>
+<div class="cure grace-02"></div>
+<div class="cure grace-03"></div>
+<div class="cure grace-04"></div>
+<p class="colorcode"><span>#FC6FBB</span><span>#FF91C9</span><span>#FCEB6C</span><span>#96E498</span></p>
+<h3>キュアフォンテーヌ</h3>
+<div class="cure fontaine-01"></div>
+<div class="cure fontaine-02"></div>
+<div class="cure fontaine-03"></div>
+<div class="cure fontaine-04"></div>
+<p class="colorcode"><span>#50D4F5</span><span>#D0FFDC</span><span>#1A6CBB</span><span>#F3FAFE</span></p>
+<h3>キュアスパークル</h3>
+<div class="cure sparkle-01"></div>
+<div class="cure sparkle-02"></div>
+<div class="cure sparkle-03"></div>
+<div class="cure sparkle-04"></div>
+<p class="colorcode"><span>#FCE769</span><span>#FFE590</span><span>#D5FFE7</span><span>#C57080</span></p>
 </section>
 
 
